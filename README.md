@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-   <a href="https://github.com/recep-yildirim?tab=follow">
+  <a href="https://github.com/recep-yildirim?tab=follow">
     <img src="https://img.shields.io/github/followers/recep-yildirim?label=Follow&style=social" />
   </a>
 </p>
@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=recep-yildirim&show_icons=true&theme=radical&hide_border=true&border_radius=20%" alt="Profile Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recep-yildirim&langs_count=10&theme=radical&layout=demo&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recep-yildirim&langs_count=10&theme=radical&layout=demo&hide_border=true&border_radius=20%" alt="Top Languages"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Break%20Things&fontSize=40&animation=fadeIn&fontAlignY=80" alt="Footer"/>
