@@ -6,8 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=recep-yildirim&color=red" alt="Profile Views">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/recep-yildirim/">
-    <img src="https://img.shields.io/badge/-Recep YILDIRIM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recep-yildirim/" />
+  <a href="https://www.linkedin.com/in/recep-yildirim">
+    <img src="https://img.shields.io/badge/-Recep YILDIRIM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recep-yildirim" />
   </a>
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-   <a href="https://github.com/recep-yildirim/?tab=follow">
+   <a href="https://github.com/recep-yildirim?tab=follow">
     <img src="https://img.shields.io/github/followers/recep-yildirim?label=Follow&style=social" />
   </a>
 </p>
