@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Move%20Fast&fontSize=40&animation=fadeIn&fontAlignY=40" alt="Header"/>
 </p>
 <p align="center"><i><b>A Software Engineering student who interested in Machine Learning and also other branches of Artificial Intelligence</b></i></p>
+<br /><br />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=recep-yildirim&color=red" alt="Profile Views">
 </p>
