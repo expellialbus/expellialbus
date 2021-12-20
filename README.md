@@ -31,7 +31,7 @@
 </div><br />
     
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=recep-yildirim&show_icons=true&theme=radical&hide_border=true&border_radius=20%" alt="Profile Stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=recep-yildirim&show_icons=true&theme=radical&hide_border=true&border_radius=20%" alt="Profile Stats"/><br /><br />
  
   [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=recep-yildirim&bg_color=141321&line=fb418c&color=A9FEF7&custom_title=My%20Github%20Activity%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
