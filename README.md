@@ -22,6 +22,9 @@
   <a href="https://www.kaggle.com/recepyildirim">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
+  <a href="https://replit.com/@recepyildirim">
+    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+  </a>
   <a href="https://codepen.io/recepyildirim">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
