@@ -39,7 +39,7 @@
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=recep-yildirim&show_icons=true&theme=radical&hide_border=true&border_radius=20%" alt="Profile Stats"/><br /><br />
  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=recep-yildirim&bg_color=141321&line=fb418c&color=A9FEF7&custom_title=My%20Github%20Activity%20Graph&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=recep-yildirim&bg_color=141321&line=fb418c&color=A9FEF7&custom_title=My%20Github%20Activity%20Graph&area=true&hide_border=true" alt="Activity Graph" />
 </div>
   
 <p align="center">
